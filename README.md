@@ -40,7 +40,10 @@ The core idea is simple: the best option should be **closest to the ideal soluti
 ## 📊 Example
 Imagine choosing a laptop based on **Price, Performance, and Battery Life**:
 - TOPSIS normalizes these values, applies weights, and calculates which laptop is closest to the "ideal" (low price, high performance, long battery life).  
-- The final ranking shows which laptop offers the best balance across all criteria.  
+- The final ranking shows which laptop offers the best balance across all criteria.
+- !pip install Topsis-Anshul-102303930
+- import topsis_anshul
+- 
 
 ---
 
